@@ -1,2 +1,2 @@
 # Madlib-game
-This is the very fast python project for every beginners
+This is the very first python project for every beginners, which every beginner must try atleast once.
